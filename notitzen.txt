@@ -1,2 +1,4 @@
-Telli J
-Visual Studio
+Linux sachen zu marken:
+
+Fish shell (alias)
+mint // ubunto
