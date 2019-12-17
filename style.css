@@ -2,6 +2,18 @@ body {
     background-color: #D05A00;
     text-align: center;
 }
-h1 {
+
+ h1 {
     color: #FEFFF8;   
 } 
+
+.Decks { 
+    font-weight: bold;
+    color: #000001;
+}
+.button{
+    font-size: 100px;
+    width: 500px;
+    color: #D05A00;
+    background-color: #FEFFF8;
+}
