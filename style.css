@@ -16,4 +16,12 @@ body {
     width: 500px;
     color: #D05A00;
     background-color: #FEFFF8;
+    border: solid 10px ;
+    margin: 0px;
+}
+.deckimg {  
+    border-radius: 108px;
+    border: solid 10px #FEFFF8;
+    height: 204px;
+    width: 216px;    
 }
