@@ -1,4 +1,6 @@
-Linux sachen zu marken:
+Python Zeit Konto Rechner mit Open Alina
 
-Fish shell (alias)
-mint // ubunto
+
+Fish Shell aussehen ändern
+
+Gnome icos ändern
