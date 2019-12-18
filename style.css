@@ -25,3 +25,8 @@ body {
     height: 204px;
     width: 216px;    
 }
+.homebutton {
+    height: 50px;
+    width: 50px;
+    padding-right: 1500px;
+}
